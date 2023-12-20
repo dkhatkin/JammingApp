@@ -15,7 +15,11 @@
 
 .App-link {
   color: #61dafb;
+  transition: all 0.3s ease-in-out;
 }
 .App-link:visited {
   color: #efefef;
+}
+.App-link:hover{
+  color: rgb(255, 255, 102);
 }
