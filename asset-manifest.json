@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dkhatkin.github.io/static/css/main.eb365327.css",
-    "main.js": "/dkhatkin.github.io/static/js/main.eb7412ae.js",
-    "index.html": "/dkhatkin.github.io/index.html",
-    "main.eb365327.css.map": "/dkhatkin.github.io/static/css/main.eb365327.css.map",
-    "main.eb7412ae.js.map": "/dkhatkin.github.io/static/js/main.eb7412ae.js.map"
+    "main.css": "/JammingApp/static/css/main.eb365327.css",
+    "main.js": "/JammingApp/static/js/main.eb7412ae.js",
+    "index.html": "/JammingApp/index.html",
+    "main.eb365327.css.map": "/JammingApp/static/css/main.eb365327.css.map",
+    "main.eb7412ae.js.map": "/JammingApp/static/js/main.eb7412ae.js.map"
   },
   "entrypoints": [
     "static/css/main.eb365327.css",
