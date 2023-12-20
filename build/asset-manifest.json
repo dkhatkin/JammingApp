@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb365327.css",
-    "main.js": "/static/js/main.5f122367.js",
-    "index.html": "/index.html",
-    "main.eb365327.css.map": "/static/css/main.eb365327.css.map",
-    "main.5f122367.js.map": "/static/js/main.5f122367.js.map"
+    "main.css": "/dkhatkin.github.io/static/css/main.eb365327.css",
+    "main.js": "/dkhatkin.github.io/static/js/main.5f122367.js",
+    "index.html": "/dkhatkin.github.io/index.html",
+    "main.eb365327.css.map": "/dkhatkin.github.io/static/css/main.eb365327.css.map",
+    "main.5f122367.js.map": "/dkhatkin.github.io/static/js/main.5f122367.js.map"
   },
   "entrypoints": [
     "static/css/main.eb365327.css",
