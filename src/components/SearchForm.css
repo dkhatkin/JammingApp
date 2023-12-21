@@ -1,0 +1,33 @@
+.SearchForm{
+    display: flex;
+    flex-direction: column;
+    max-width: 25rem;
+    margin: 0 auto;
+    padding-top: 20vh;
+}
+.SearchLabel{
+    text-align: left;
+    margin-bottom: 0.4rem;
+    font-size: 1.4rem;
+}
+.SearchBar{
+    padding: 0.8rem;
+    font-size: 1.1rem;
+    border: 1px solid #939393;
+    border-radius: 5px;
+    background-color: transparent;
+    margin-bottom: 1.3rem;
+    color: inherit;
+}
+.SearchBar:focus{
+    border-color: #fff;
+}
+.SubmitButton{
+    padding: 0.8rem 0;
+    border-radius: 20px;
+    background-color: #1ed760;
+    border: none;
+    color: #000;
+    font-weight: 700;
+    cursor: pointer;
+}

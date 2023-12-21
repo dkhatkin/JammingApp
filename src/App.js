@@ -1,10 +1,11 @@
 import './App.css';
-
+import SearchForm from './components/SearchForm';
 function App() {
   return (
     <div className="App">
-      <header className="header"><h1>Jammming</h1></header>
-      <main className="main"></main>
+      <main className="main">
+        <SearchForm/>
+      </main>
     </div>
   );
 }

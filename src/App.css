@@ -1,13 +1,10 @@
 .App {
   text-align: center;
   color: #f6f6f6;
+  font-size: 1.3rem;
 }
-.header{
-  background-color: #101010;
-  padding: 1.6rem 0;
 
-}
 .main{
-  background-color: #1e1e1e;
+  background-color: #121212;
   min-height: 100vh;
 }
