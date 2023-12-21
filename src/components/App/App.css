@@ -8,3 +8,9 @@
   background-color: #121212;
   min-height: 100vh;
 }
+.ResultsPlaylist{
+  display: flex;
+  justify-content: center;
+  column-gap: 5rem;
+
+}

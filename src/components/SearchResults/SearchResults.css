@@ -1,0 +1,11 @@
+.SearchResults {
+  max-width: 31rem;
+  width: 100%;
+  text-align: left;
+  border: 5px solid #090909;
+  border-radius: 10px;
+  padding: 2rem 1.5rem 6rem;
+}
+.SearchTitle {
+  margin: 0;
+}
