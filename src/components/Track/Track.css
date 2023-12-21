@@ -1,0 +1,8 @@
+.Track {
+    display: flex;
+    flex-direction: column;
+
+}
+.TrackName{
+    width: 100%;
+}
