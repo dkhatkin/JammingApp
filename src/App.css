@@ -1,25 +1,13 @@
 .App {
   text-align: center;
+  color: #f6f6f6;
 }
+.header{
+  background-color: #101010;
+  padding: 1.6rem 0;
 
-.App-header {
-  background-color: #282c34;
+}
+.main{
+  background-color: #1e1e1e;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-  transition: all 0.3s ease-in-out;
-}
-.App-link:visited {
-  color: #efefef;
-}
-.App-link:hover{
-  color: rgb(255, 255, 102);
 }

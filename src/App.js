@@ -3,11 +3,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Hello World!</h1>
-        <p>This is my Jammming App</p>
-        <a className="App-link" href="https://github.com/dkhatkin">This is my GitHub</a>
-      </header>
+      <header className="header"><h1>Jammming</h1></header>
+      <main className="main"></main>
     </div>
   );
 }
